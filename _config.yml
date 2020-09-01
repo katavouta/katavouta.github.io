@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Anna Katavouta"
 description              : ""
 url                      : "https://katavouta.github.io"
-baseurl                  : /katavouta.github.io # https://katavouta.github.io the subpath of your site, e.g. "/blog"
+baseurl                  : # https://katavouta.github.io the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/photos/DSCI0187.JPG"
 logo                     : "/assets/photos/DSCI0187.JPG"
