@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/Background/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Background_old/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/CV/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Current_Projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Research_2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/CV_Katavouta.pdf</loc>
+<lastmod>2020-07-28T16:58:12+01:00</lastmod>
+</url>
+</urlset>
