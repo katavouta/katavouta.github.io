@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Anna Katavouta"
 description              : ""
 url                      : "https://katavouta.github.io"
-baseurl                  : /katavouta.github.io # https://katavouta.github.io the subpath of your site, e.g. "/blog"
+baseurl                  : # https://katavouta.github.io the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/photos/DSCI0187.JPG"
 logo                     : "/assets/photos/DSCI0187.JPG"
@@ -120,13 +120,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: " ORCID"
-      icon: "ai ai-orcid-square ai-1.7x" 
+    - label: "ORCID"
+      icon: "fab fa-fw fa-address-card"
       url: "https://orcid.org/0000-0002-1587-4996"
-    - label: " Google Scholar"
-      icon: "ai ai-google-scholar-square ai-1.7x"
-      url: "https://scholar.google.co.uk/citations?user=IB5MBoQAAAAJ&hl=en"
-
+ 
 # Site Footer
 footer:
   links:
@@ -277,10 +274,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _pages
+  # _posts
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -288,26 +285,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      header:
-        image: /assets/photos/DSCI0187_b.jpg
-      #  og_image: /assets/photos/DSCI0187_b.jpg
-      #excerpt: ""
-      #header:
-      #  teaser: /assets/photos/DSCI0187.JPG
-      #  overlay_image: /assets/photos/DSCI0187.JPG
-      #  tagline: 
-      #  overlay_filter: 0.2
-      # read_time: true
-      # comments: # true
-      # share: true
-      # related: true
