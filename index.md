@@ -5,7 +5,7 @@ title: "About me"
 author_profile: true
 ---
 
-I am an early career scientist based at the National Oceanography Center & the University of Liverpool, UK. 
+I am an early career scientist based at the National Oceanography Centre & the University of Liverpool, UK. 
 My research interests and experience lie in combining numerical models, observations and theory to **study ocean processes and their role within the Earth system** on different spatial scales, regional to global, and time scales, days to millennia.  
 
 
