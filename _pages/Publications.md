@@ -12,7 +12,7 @@ comments: true
 
 <li>Williams, R.G., C. Paulo & <b>A. Katavouta</b> (2020). Controls of the Transient Climate Response to Emissions by physical feedbacks, heat uptake and carbon cycling, <i>Environmental Research Letters</i>, in press - available online: <a href="https://doi.org/10.1088/1748-9326/ab97c9">https://doi.org/10.1088/1748-9326/ab97c9</a></li>
 
-<li>Arora, V.K., <b>A. Katavouta</b>, R.G. Williams, C.D. Jones, V. Brovkin, P. Friedlingstein, J. Schwinger, L. Bopp, et al., (2020). Carbon-concentration and carbon-climate feedbacks in CMIP6 models, and their comparison to CMIP5 models, <i>Biogeosciences</i>, 17, 4173–4222. <a href="https://doi.org/10.5194/bg-17-4173-2020>https://doi.org/10.5194/bg-17-4173-2020/a></li>
+<li>Arora, V.K., <b>A. Katavouta</b>, R.G. Williams, C.D. Jones, V. Brovkin, P. Friedlingstein, J. Schwinger, L. Bopp, et al., (2020). Carbon-concentration and carbon-climate feedbacks in CMIP6 models, and their comparison to CMIP5 models, <i>Biogeosciences</i>, 17, 4173–4222. <a href="https://doi.org/10.5194/bg-17-4173-2020">https://doi.org/10.5194/bg-17-4173-2020/a></li>
 
 <li>Williams, R.G., <b>A. Katavouta</b> & P. Goodwin (2019). Carbon-Cycle Feedbacks Operating in the Climate System, <i>Current Climate Change Reports</i>, 5, 282-295. <a href="https://doi.org/10.1007/s40641-019-00144-9">https://doi.org/10.1007/s40641-019-00144-9</a></li>
 
