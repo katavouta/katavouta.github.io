@@ -7,9 +7,7 @@ author_profile: true
 comments: true
 ---
 
-<ol reversed>
-<li><b>A. Katavouta</b> & R.G. Williams (2021). Controls of ocean carbon cycle feedbacks from different ocean basins and meridional overturning in CMIP6,  <i>Biogeosciences Discuss.</i>, in review. <a href="https://doi.org/10.5194/bg-2020-487">https://doi.org/10.5194/bg-2020-487</a></li>
-  
+<ol reversed>  
 <li>Williams, R.G., <b>A. Katavouta</b> & V. Roussenov (2020). Anthropogenic heat and carbon storage in climate model projections: regional similarities and differences due to added and redistributed tracer, <i>Journal of Climate</i>, submitted.</li>
 
 <li>Williams, R.G., C. Paulo & <b>A. Katavouta</b> (2020). Controls of the Transient Climate Response to Emissions by physical feedbacks, heat uptake and carbon cycling, <i>Environmental Research Letters</i>, in press - available online: <a href="https://doi.org/10.1088/1748-9326/ab97c9">https://doi.org/10.1088/1748-9326/ab97c9</a></li>
