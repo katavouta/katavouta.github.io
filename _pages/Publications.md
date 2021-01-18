@@ -8,7 +8,7 @@ comments: true
 ---
 
 <ol reversed>  
-<li><b>Katavouta A., </b> & R.G. Williams (2021). Controls of ocean carbon cycle feedbacks from different ocean basins and meridional overturning in CMIP6,  <i>Biogeosciences Discuss.</i>, in review. <a href="https://doi.org/10.5194/bg-2020-487">https://doi.org/10.5194/bg-2020-487</a></li>
+<li><b>Katavouta A. </b> & R.G. Williams (2021). Controls of ocean carbon cycle feedbacks from different ocean basins and meridional overturning in CMIP6,  <i>Biogeosciences Discuss.</i>, in review. <a href="https://doi.org/10.5194/bg-2020-487">https://doi.org/10.5194/bg-2020-487</a></li>
  
 <li>Williams R.G., <b>A. Katavouta</b> & V. Roussenov (2020). Anthropogenic heat and carbon storage in climate model projections: regional similarities and differences due to added and redistributed tracer, <i>Journal of Climate</i>, submitted.</li>
 
@@ -28,7 +28,7 @@ comments: true
 
 <li>Chegini F., Y. Lu, <b>A. Katavouta</b> & H. Ritchie (2018). Coastal upwelling off Southwest Nova Scotia simulated with a high-resolution baroclinic ocean model, <i>Journal of Geophysical Research</i>, 123, 2318-2331. <a href="https://doi.org/10.1002/2017JC013431">https://doi.org/10.1002/2017JC013431</a></li>
 
-<li><b>Katavouta A.</b> & K.R. Thompson (2016). Downscaling ocean conditions with application to the Gulf of Maine, Scotian Shelf and adjacent deep ocean, <i>Ocean Modelling</i>, 104, 54-72. <a href="https://doi.org/10.1016/j.ocemod.2016.05.007">https://doi.org/10.1016/j.ocemod.2016.05.007</a></li>
+<li><b>Katavouta A.</b>, & K.R. Thompson (2016). Downscaling ocean conditions with application to the Gulf of Maine, Scotian Shelf and adjacent deep ocean, <i>Ocean Modelling</i>, 104, 54-72. <a href="https://doi.org/10.1016/j.ocemod.2016.05.007">https://doi.org/10.1016/j.ocemod.2016.05.007</a></li>
 
 <li><b>Katavouta A.</b>, K.R. Thompson, Y. Lu & J.W. Loder (2016). Interaction Between the Tidal and Seasonal Variability of the Gulf of Maine and Scotian Shelf Region, <i>Journal of Physical Oceanography</i>, 46(11), 3279-3298. <a href="https://doi.org/10.1175/JPO-D-15-0091.1">https://doi.org/10.1175/JPO-D-15-0091.1</a></li>
 
