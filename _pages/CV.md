@@ -4,6 +4,7 @@ layout: single
 title: ""
 author_profile: true
 comments: true
+
 ---
 For a full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
 ---
