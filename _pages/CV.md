@@ -5,7 +5,7 @@ title: ""
 author_profile: true
 comments: true
 ---
-For an full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
+For a full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
 ---
 # Professional Experience 
 **Ocean Modelling Scientist**, National Oceanography Centre, Liverpool, UK (August 2019 - present).
