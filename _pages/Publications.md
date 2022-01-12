@@ -8,7 +8,7 @@ comments: true
 ---
 
 <ol reversed>  
-<li><b>Katavouta A. </b> & R.G. Williams (2021). Ocean carbon cycle feedbacks in CMIP6 models: contributions from different basins, <i>Biogeosciences</i>, 18, 3189–3218. <a href="https://doi.org/10.5194/bg-2020-487">https://doi.org/10.5194/bg-18-3189-2021</a></li>
+<li><b>Katavouta A. </b> & R.G. Williams (2021). Ocean carbon cycle feedbacks in CMIP6 models: contributions from different basins, <i>Biogeosciences</i>, 18, 3189–3218. <a href="https://doi.org/10.5194/bg-18-3189-2021">https://doi.org/10.5194/bg-18-3189-2021</a></li>
  
 <li>Williams R.G., <b>A. Katavouta</b> & V. Roussenov (2021). Regional Asymmetries in Ocean Heat and Carbon Storage due to Dynamic Redistribution in Climate Model Projections, <i>Journal of Climate</i>, 34(10), 3907-3925. <a href="https://doi.org/10.1175/JCLI-D-20-0519.1">https://doi.org/10.1175/JCLI-D-20-0519.1</a></li>
 
