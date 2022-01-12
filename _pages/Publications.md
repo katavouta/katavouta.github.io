@@ -8,11 +8,11 @@ comments: true
 ---
 
 <ol reversed>  
-<li><b>Katavouta A. </b> & R.G. Williams (2021). Controls of ocean carbon cycle feedbacks from different ocean basins and meridional overturning in CMIP6,  <i>Biogeosciences Discuss.</i>, in review. <a href="https://doi.org/10.5194/bg-2020-487">https://doi.org/10.5194/bg-2020-487</a></li>
+<li><b>Katavouta A. </b> & R.G. Williams (2021). Ocean carbon cycle feedbacks in CMIP6 models: contributions from different basins, <i>Biogeosciences</i>, 18, 3189–3218. <a href="https://doi.org/10.5194/bg-2020-487">https://doi.org/10.5194/bg-18-3189-2021</a></li>
  
-<li>Williams R.G., <b>A. Katavouta</b> & V. Roussenov (2020). Anthropogenic heat and carbon storage in climate model projections: regional similarities and differences due to added and redistributed tracer, <i>Journal of Climate</i>, in review.</li>
+<li>Williams R.G., <b>A. Katavouta</b> & V. Roussenov (2021). Regional Asymmetries in Ocean Heat and Carbon Storage due to Dynamic Redistribution in Climate Model Projections, <i>Journal of Climate</i>, 34(10), 3907-3925. <a href="https://doi.org/10.1175/JCLI-D-20-0519.1">https://doi.org/10.1175/JCLI-D-20-0519.1</a></li>
 
-<li>Williams R.G., C. Paulo & <b>A. Katavouta</b> (2020). Controls of the Transient Climate Response to Emissions by physical feedbacks, heat uptake and carbon cycling, <i>Environmental Research Letters</i>, in press - available online: <a href="https://doi.org/10.1088/1748-9326/ab97c9">https://doi.org/10.1088/1748-9326/ab97c9</a></li>
+<li>Williams R.G., C. Paulo & <b>A. Katavouta</b> (2020). Controls of the Transient Climate Response to Emissions by physical feedbacks, heat uptake and carbon cycling, <i>Environmental Research Letters</i>, 15 0940c1. <a href="https://doi.org/10.1088/1748-9326/ab97c9">https://doi.org/10.1088/1748-9326/ab97c9.</a></li>
 
 <li>Arora V.K., <b>A. Katavouta</b>, R.G. Williams, C.D. Jones, V. Brovkin, P. Friedlingstein, J. Schwinger, L. Bopp, et al., (2020). Carbon-concentration and carbon-climate feedbacks in CMIP6 models, and their comparison to CMIP5 models, <i>Biogeosciences</i>, 17, 4173–4222. <a href="https://doi.org/10.5194/bg-17-4173-2020">https://doi.org/10.5194/bg-17-4173-2020</a></li>  
 
