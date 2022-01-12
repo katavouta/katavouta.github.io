@@ -5,6 +5,8 @@ title: ""
 author_profile: true
 comments: true
 ---
+For an full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
+---
 # Professional Experience 
 **Ocean Modelling Scientist**, National Oceanography Centre, Liverpool, UK (August 2019 - present).
 
@@ -19,7 +21,7 @@ Thesis: *Non-linear coupling of scales of ocean variability and implications for
 **MSc in Earth and Atmospheric Sciences**, University of Alberta, Edmonton, Canada (2008-2010).
 Thesis: *Sea Ice Data Assimilation for the Canadian East Coast*
 
-**Ptychio (Bachelor) in Physics**, University of Patras, Patras, Greece (2003-2008).
+**Ptychio (BSc Hons) in Physics**, University of Patras, Patras, Greece (2003-2008).
 Thesis: *Simulating and forecasting erythemal radiation time series using artificial neural networks*
 
 ---
@@ -54,5 +56,4 @@ August 2018, Swiss Oeschger Centre for Climate Change Research (OCCR) Summer Sch
 
 ---
 
-For more information: <a href="/assets/CV_Katavouta.pdf">full CV in PDF</a>
   
