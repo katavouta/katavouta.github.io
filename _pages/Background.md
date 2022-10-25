@@ -10,7 +10,7 @@ comments: true
 I was borned and grew up in Greece. After completing my Bachelor's degree in physics in Greece, I moved to Canada for my grad studies (MSc and PhD) where I lived for almost 8 years. Since 2016 I have lived and worked in the UK.
 
 ---
-<p><a href="/assets/figures/CUR_SEAsia_large.png"><img src="/assets/figures/CUR_SEAsia_large.png" style="float:right;width:50%"></a>I am currently a <b>scientist at the National Oceanography Centre</b>. My research focuses on the effect of shelf processes on the dynamics of the Indonesian Seas and the Indonesian throughflow, and their response to climate change. I also hold a <b>research associate position at the University of Liverpool</b>, where I investigate the role of the ocean on the climate response to carbon emissions and on the carbon cycle and climate feedbacks operating in the climate system.</p>
+<p><a href="/assets/figures/CUR_SEAsia_large.png"><img src="/assets/figures/CUR_SEAsia_large.png" style="float:right;width:50%"></a>I am currently a <b>scientist at the National Oceanography Centre</b>. My research focuses on the effect of shelf processes on the dynamics of the Indonesian Seas and the Indonesian throughflow, and their response to climate change. I also currently doing a part-time <b>secondment at the University of Liverpool</b>, where I investigate the role of the ocean on the climate response to carbon emissions and on the carbon cycle and climate feedbacks operating in the climate system.</p>
 
 ---
 
