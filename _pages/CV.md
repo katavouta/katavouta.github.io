@@ -1,6 +1,7 @@
 ---
 permalink: /CV/
 layout: single
+classes: wide
 title: ""
 author_profile: true
 comments: true
