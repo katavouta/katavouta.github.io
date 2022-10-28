@@ -8,7 +8,7 @@ comments: true
 ---
 
 <ol reversed>  
-<li>Mitchell D.M., E.J. Stone, O.D. Andrews, J.L. Bamber, R.J. Bingham, J. Browse, M. Henry, D.M. MacLeod, J.M. Morten, C.A. Sauter, C.J. Smith, J. Thomas, S.I. Thomson, J.D. Wilson, and the rest of the Bristol CMIP6 Data Hackathon participants (including <b>A. Katavouta<\b>) (2022). The Bristol CMIP6 Data Hackathon, <i>Weather</i>,  77. <a href="https://doi.org/10.1002/wea.4161">https://doi.org/10.1002/wea.4161</a></li>
+<li>Mitchell D.M., E.J. Stone, O.D. Andrews, J.L. Bamber, R.J. Bingham, J. Browse, M. Henry, D.M. MacLeod, J.M. Morten, C.A. Sauter, C.J. Smith, J. Thomas, S.I. Thomson, J.D. Wilson, and the rest of the Bristol CMIP6 Data Hackathon participants (including <b>A. Katavouta</b>) (2022). The Bristol CMIP6 Data Hackathon, <i>Weather</i>,  77. <a href="https://doi.org/10.1002/wea.4161">https://doi.org/10.1002/wea.4161</a></li>
 
 <li><b>Katavouta A.</b>, J.A Polton, J.D. Harle & J.T. Holt (2022). Effect of tides on the Indonesian Seas circulation and their role on the volume, heat and salt transports of the Indonesian Throughflow, <i>Journal of Geophysical Research: Oceans</i>,  127, e2022JC018524. <a href="https://doi.org/10.1029/2022JC018524">https://doi.org/10.1029/2022JC018524</a></li>
  
