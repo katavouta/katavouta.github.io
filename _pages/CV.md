@@ -29,6 +29,10 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 
 ---
 
+**Member of the steering of the endorsed UN Ocean Decade Action “Future Coastal Ocean Climates” (<a href="https://projects.noc.ac.uk/flame/">FLAME</a>)** hosted by CoastPredict 
+
+---
+
 **Published in the leading Ocean and Climate Sciences journals:** Nature Geoscience, Journal of Climate, Journal of Physical Oceanography, Geophysical Research Letters, Journal of Geophysical Research, Biogeosciences, Ocean Modelling, Environmental Research Letters, PNAS.
 
 **6 of my papers are used and referenced in the IPCC Sixth Assessment Report, AR6**: Papers 6, 7, 9, 10, 11 and 12 in <a href="/Publications/">my list of Pulications</a>
@@ -43,7 +47,7 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 
 ---
 
-**Invited visits and talks**
+**Invited visits and talks** (selected)
 - March 2022, Princeton University, USA (virtual seminar).
 - January 2019, The Max Planck Institute for Meteorology.
 - August 2018, The University of Bern. 
