@@ -12,7 +12,7 @@ comments: true
   
 <li>Turner K.E., D.M. Smith, <b>A. Katavouta</b> & R.G. Williams (in review). Reconstructing ocean carbon storage with CMIP6 models and synthetic Argo observations, <i>Biogeosciences Discuss.</i>, <a href="https://doi.org/10.5194/bg-2022-166">https://doi.org/10.5194/bg-2022-166</a></li>
   
-<li>Turner K.E., R.G. Williams, <b>A. Katavouta</b> & D.J. Beerling (in review - <i>Climate Dynamics</i>). Controls of the climate response to negative emissions in a simplified climate model. Controls of the climate response to negative emissions in a simplified climate model.</li>
+<li>Turner K.E., R.G. Williams, <b>A. Katavouta</b> & D.J. Beerling (in review - <i>Climate Dynamics</i>). Controls of the climate response to negative emissions in a simplified climate model.</li>
  
 <li>Williams R.G., C. Paulo, V, Roussenov, <b>A. Katavouta</b> & A.J.S. Meijers (in review -<i>Philosophical Transactions of the Royal Society A</i>). The role of the Southern Ocean in the global climate response.</li>
 
