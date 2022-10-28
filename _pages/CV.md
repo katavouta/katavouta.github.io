@@ -35,7 +35,7 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 
 **Published in the leading Ocean and Climate Sciences journals:** Nature Geoscience, Journal of Climate, Journal of Physical Oceanography, Geophysical Research Letters, Journal of Geophysical Research, Biogeosciences, Ocean Modelling, Environmental Research Letters, PNAS.
 
-**6 of my papers are used and referenced in the IPCC Sixth Assessment Report, AR6**: Papers 6, 7, 9, 10, 11 and 12 in <a href="/Publications/">my list of Pulications</a>
+**6 of my papers are used and referenced in the IPCC Sixth Assessment Report, AR6**: Papers 6, 7, 9, 10, 11 and 12 in <a href="/Publications/">my publications</a>.
 
 ---
 
