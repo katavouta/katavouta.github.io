@@ -8,7 +8,7 @@ comments: true
 ---
 
 <ol reversed>  
-<li><b>Katavouta A. </b>, J.A Polton, J.D. Harle & J.T. Holt (2022). Effect of tides on the Indonesian Seas circulation and their role on the volume, heat and salt transports of the Indonesian Throughflow, <i>Journal of Geophysical Research: Oceans</i>,  127, e2022JC018524. <a href="https://doi.org/10.1029/2022JC018524">https://doi.org/10.1029/2022JC018524</a></li>
+<li><b>Katavouta A.</b>, J.A Polton, J.D. Harle & J.T. Holt (2022). Effect of tides on the Indonesian Seas circulation and their role on the volume, heat and salt transports of the Indonesian Throughflow, <i>Journal of Geophysical Research: Oceans</i>,  127, e2022JC018524. <a href="https://doi.org/10.1029/2022JC018524">https://doi.org/10.1029/2022JC018524</a></li>
  
 <li><b>Katavouta A. </b> & R.G. Williams (2021). Ocean carbon cycle feedbacks in CMIP6 models: contributions from different basins, <i>Biogeosciences</i>, 18, 3189–3218. <a href="https://doi.org/10.5194/bg-18-3189-2021">https://doi.org/10.5194/bg-18-3189-2021</a></li>
  
