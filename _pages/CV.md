@@ -8,7 +8,7 @@ comments: true
 ---
 For a full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
 ---
-# Professional Experience 
+
 **Ocean Modelling Scientist**, National Oceanography Centre, Liverpool, UK (August 2019 - present).
 
 **Secondment** (part-time, 50%), University of Liverpool, UK (May 2020 - present).
@@ -17,7 +17,6 @@ For a full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
 
 ---
 
-# Education 
 **PhD in Oceanography**, Dalhousie University, Halifax, Canada (2010-2016).
 Thesis: *Non-linear coupling of scales of ocean variability and implications for downscaling*
 
