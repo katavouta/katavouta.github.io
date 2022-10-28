@@ -8,7 +8,7 @@ comments: true
 ---
 
 <ol reversed>  
-<li>Polton J.A., J. Harle, J. Holt, <b>A. Katavouta</b>, D. Partridge, J. Jardine, S. Wakelin, J. Rulent, A. Wise, K. Hutchinson, D. Byrne, D. Bruciaferri, E. O'Dea, M. De Dominicis, P. Mathiot, A. Coward, A. Yool, J. Palmieri, G. Lessin, G. Mayorga-Adame, V. Le Guennec, A. Arnold, & C. Rousset. in review). Reproducible and Relocatable Regional Ocean Modelling: Fundamentals and practices, <i>Geosci. Model Dev. Discuss.</i>, <a href="https://doi.org/10.5194/gmd-2022-217">https://doi.org/10.5194/gmd-2022-217</a></li>
+<li>Polton J.A., J. Harle, J. Holt, <b>A. Katavouta</b>, D. Partridge, J. Jardine, S. Wakelin, J. Rulent, A. Wise, K. Hutchinson, D. Byrne, D. Bruciaferri, E. O'Dea, M. De Dominicis, P. Mathiot, A. Coward, A. Yool, J. Palmieri, G. Lessin, G. Mayorga-Adame, V. Le Guennec, A. Arnold, C. Rousset. in review). Reproducible and Relocatable Regional Ocean Modelling: Fundamentals and practices, <i>Geosci. Model Dev. Discuss.</i>, <a href="https://doi.org/10.5194/gmd-2022-217">https://doi.org/10.5194/gmd-2022-217</a></li>
   
 <li>Turner K.E., D.M. Smith, <b>A. Katavouta</b> & R.G. Williams (in review). Reconstructing ocean carbon storage with CMIP6 models and synthetic Argo observations, <i>Biogeosciences Discuss.</i>, <a href="https://doi.org/10.5194/bg-2022-1669">https://doi.org/10.5194/bg-2022-166</a></li>
   
