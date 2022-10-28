@@ -35,7 +35,7 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 
 **Published in the leading Ocean and Climate Sciences journals:** Nature Geoscience, Journal of Climate, Journal of Physical Oceanography, Geophysical Research Letters, Journal of Geophysical Research, Biogeosciences, Ocean Modelling, Environmental Research Letters, PNAS.
 
-**6 of my papers are used and referenced in the IPCC Sixth Assessment Report, AR6**: Papers 6, 7, 9, 10, 11 and 12 in <a href="/Publications/">my publications</a>.
+**6 of my papers are used and referenced in the IPCC Sixth Assessment Report, AR6**: Papers 6, 7, 9, 10, 11 and 12 in <a href="/Publications/">my list of publications</a>.
 
 ---
 
@@ -56,12 +56,12 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 
 **Summer Schools & Workshops** (selected)
 - Ferbuary 2022 (upcoming): Co-organising the first “Future Coastal Ocean Climates” (FLAME) international workshop.
-- June 2021: Participation to the CMIP6 Data Hackathon - part of the Met Office Climate Data Challenge Hackathon series during 2021. Led to a collaboration for addressing the effects of climate change on Biological Carbon Pump (paper 17 in <a href="/Publications/">my list of Pulications</a>).
+- June 2021: Participation to the CMIP6 Data Hackathon - part of the Met Office Climate Data Challenge Hackathon series during 2021. Led to a collaboration for addressing the effects of climate change on Biological Carbon Pump (paper 17 in <a href="/Publications/">my list of publications</a>).
 - August 2018: Swiss Oeschger Centre for Climate Change Research (OCCR) Summer School. Participation in this summer school is highly competitive and is limited to a maximum of 70 young researchers from all fields of climate research.
 
 ---
 
-**Diverse proven expertise in** (demonstrated by <a href="/Publications/">my pulications</a>): ocean and climate sciences, shelf seas dynamics, numerical modelling for ocean/climate, downscaling methods for regional models, statistical methods for analysis and reconstruction of Earth system observations.
+**Diverse proven expertise in** (demonstrated by <a href="/Publications/">my publications</a>): ocean and climate sciences, shelf seas dynamics, numerical modelling for ocean/climate, downscaling methods for regional models, statistical methods for analysis and reconstruction of Earth system observations.
 
 ---
 
