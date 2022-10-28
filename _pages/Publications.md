@@ -8,6 +8,8 @@ comments: true
 ---
 
 <ol reversed>  
+<li>Williams R.G., C. Paulo, V, Roussenov, <b>A. Katavouta</b> & A.J.S. Meijers (in review -<i>Philosophical Transactions of the Royal Society A</i>).
+ 
 <li>Wilson J.D., O. Andrews, <b>A. Katavouta</b>, F. de Melo Viríssimo, R.M. Death, M. Adloff, C.A. Baker, B. Blackledge, F.W. Goldsworth, A.T. Kennedy-Asser, Q. Liu, K.R. Sieradzan, E. Vosper, R. Ying (2022). The biological carbon pump in CMIP6 models: 21st century trends and uncertainties, <i>Proceedings of the National Academy of Sciences</i>,  119, e2204369119. <a href="https://doi.org/10.1073/pnas.2204369119">https://doi.org/10.1073/pnas.2204369119</a></li>
  
 <li>Mitchell D.M., E.J. Stone, O.D. Andrews, J.L. Bamber, R.J. Bingham, J. Browse, M. Henry, D.M. MacLeod, J.M. Morten, C.A. Sauter, C.J. Smith, J. Thomas, S.I. Thomson, J.D. Wilson, and the rest of the Bristol CMIP6 Data Hackathon participants (including <b>A. Katavouta</b>) (2022). The Bristol CMIP6 Data Hackathon, <i>Weather</i>,  77. <a href="https://doi.org/10.1002/wea.4161">https://doi.org/10.1002/wea.4161</a></li>
