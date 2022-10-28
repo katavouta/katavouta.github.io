@@ -9,7 +9,7 @@ I am an early career scientists based at the National Oceanography Centre & the 
  
 ---
 
-I am interested in understanding the control of **fundamental processes** like ocea circulation, stratification and carbonate chemistry on the climate response to carbon emissions, as well as using this understanding to improve the projection of trends in physical and biogeochemical **ocean properties crucial for the functioning of marine ecosystems** especially in terms of regional scales and extreme events.
+I am interested in understanding the control of **fundamental processes** like ocean circulation, stratification and carbonate chemistry on the climate response to carbon emissions, as well as using this understanding to assess emerging trends in physical and biogeochemical **ocean properties crucial for the functioning of marine ecosystems** especially in terms of regional scales.
 
 ---
 
