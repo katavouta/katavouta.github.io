@@ -48,6 +48,6 @@ comments: true
 
 <li><b>Katavouta A.</b> & P.G. Myers (2014). Sea-ice concentration multivariate assimilation for the Canadian East coast in a coupled sea ice-ocean model, <i>Atmosphere-Ocean</i>, 52,418-433. <a href="https://doi.org/10.1080/07055900.2014.954096">https://doi.org/10.1080/07055900.2014.954096</a></li>
 
-<li><b>Katavouta A.</b> & K.R. Thompson (2013). Downscaling Ocean Conditions: Experiments with a quasi-geostrophic model, <i>Ocean Modelling</i>, 72, 231-241. <a href="https://doi.org/10.1016/j.ocemod.2016.05.007">https://doi.org/10.1016/j.ocemod.2016.05.007</a></li>
+<li><b>Katavouta A.</b> & K.R. Thompson (2013). Downscaling Ocean Conditions: Experiments with a quasi-geostrophic model, <i>Ocean Modelling</i>, 72, 231-241. <a href="https://doi.org/10.1016/j.ocemod.2013.10.001">https://doi.org/10.1016/j.ocemod.2013.10.001</a></li>
 </ol>
 
