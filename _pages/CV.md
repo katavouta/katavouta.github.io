@@ -44,14 +44,18 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 ---
 
 **Invited visits and talks**
+- March 2022, Princeton University, USA (virtual seminar).
 - January 2019, The Max Planck Institute for Meteorology.
 - August 2018, The University of Bern. 
 
 ---
 
-**Summer Schools**
+**Summer Schools & Workshops** (selected)
+Ferbuary 2022 (upcoming): Co-organising the first “Future Coastal Ocean Climates” (FLAME) international workshop.
 
-August 2018, Swiss Oeschger Centre for Climate Change Research (OCCR) Summer School. Participation in this summer school is highly competitive and is limited to a maximum of 70 young researchers from all fields of climate research.
+June 2021: Participation to the CMIP6 Data Hackathon - part of the Met Office Climate Data Challenge Hackathon series during 2021. Led to a collaboration for addressing the effects of climate change on Biological Carbon Pump (paper 17 in <a href="/Publications/">my list of Pulications</a>).
+
+August 2018: Swiss Oeschger Centre for Climate Change Research (OCCR) Summer School. Participation in this summer school is highly competitive and is limited to a maximum of 70 young researchers from all fields of climate research.
 
 ---
 
