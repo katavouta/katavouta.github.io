@@ -29,7 +29,7 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 
 ---
 
-**Member of the steering committee for the endorsed UN Ocean Decade Action “Future Coastal Ocean Climates” (<a href="https://projects.noc.ac.uk/flame/">FLAME</a>)** hosted by CoastPredict 
+**Member of the steering committee for the endorsed UN Ocean Decade Action “Future Coastal Ocean Climates” ()** hosted by CoastPredict 
 
 ---
 
