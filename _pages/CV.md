@@ -11,7 +11,9 @@ For a full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
 # Professional Experience 
 **Ocean Modelling Scientist**, National Oceanography Centre, Liverpool, UK (August 2019 - present).
 
-**Post-doctoral Research Associate** in Ocean Sciences, Department of Earth, Ocean and Ecological Sciences, University of Liverpool, UK (Sept. 2016 - present).
+**Secondment** (part-time, 50%), University of Liverpool, UK (May 2020 - present).
+
+**Post-doctoral Research Associate** in Ocean Sciences, Department of Earth, Ocean and Ecological Sciences, University of Liverpool, UK (Sept. 2016 - August 2019).
 
 ---
 
