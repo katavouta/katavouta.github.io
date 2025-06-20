@@ -10,9 +10,9 @@ comments: true
 For a full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
 ---
 
-**Ocean Modelling Scientist**, National Oceanography Centre, Liverpool, UK (August 2019 - present).
+**Senior Scientist**, National Oceanography Centre, Liverpool, UK (August 2019 - present).
 
-**Secondment** (part-time, 50%), University of Liverpool, UK (May 2020 - present).
+**Secondment- Research Scientist** (part-time, 50%), University of Liverpool, UK (May 2020 - present).
 
 **Post-doctoral Research Associate** in Ocean Sciences, Department of Earth, Ocean and Ecological Sciences, University of Liverpool, UK (Sept. 2016 - August 2019).
 
@@ -29,7 +29,14 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 
 ---
 
-**Member of the steering committee for the endorsed UN Ocean Decade Action “Future Coastal Ocean Climates” (<a href="https://projects.noc.ac.uk/flame/">FLAME</a>)** hosted by CoastPredict 
+**Co-Steering the endorsed UN Ocean Decade Action “Future Coastal Ocean Climates” (<a href="https://projects.noc.ac.uk/flame/">FLAME</a>)** hosted by CoastPredict 
+
+---
+**Research grants** 
+- 2025-2028	Co-I and NOC-PI, Horizon 2020 (EU funds) grant SEAClim: European SEAs CLIMate impact prediction through regional models.
+- 2023-2026	Co-I, NERC CCROC grant Role of the Overturning Circulation in Carbon Accumulation (ROCCA).
+- 2023-2024	NOC-PI, NERC standard grant AsymO-HC - funding transfer through a Collaboration Agreement.
+- 2020-2023	Named Researcher Co-I, NERC standard grant Asymmetries in ocean heat and carbon uptake, and effects on marine hazards (AsymO-HC) .
 
 ---
 
@@ -40,24 +47,19 @@ Thesis: *Simulating and forecasting erythemal radiation time series using artifi
 ---
 
 **Presentations to major national and international conferences** (selected)
-- April/May 2022, 2020, 2019, 2017, 2014: European Geosciences Union General Assembly (EGU)
-- February 2022, 2020, 2018: Ocean Sciences meeting, AGU
-- September 2018: Challenger Society Conference
+- April/May 2025, 2024, 2023, 2022, 2020, 2019, 2017, 2014: European Geosciences Union General Assembly (EGU)
+- February 2024, 2022, 2020, 2018: Ocean Sciences meeting, AGU
+- September 2018, 2024: Challenger Society Conference
 - June 2014, 2012, 2010: Canadian Meteorological/Oceanographic Society Congress
 
 ---
 
 **Invited visits and talks** (selected)
+- April 2024, Euro-Mediterranean Center on Climate Change, CMCC, Italy.
+- November 2022	University of Cambridge, UK. 
 - March 2022, Princeton University, USA (virtual seminar).
 - January 2019, The Max Planck Institute for Meteorology.
 - August 2018, The University of Bern. 
-
----
-
-**Summer Schools & Workshops** (selected)
-- Ferbuary 2022 (upcoming): Co-organising the first “Future Coastal Ocean Climates” (FLAME) international workshop.
-- June 2021: Participation to the CMIP6 Data Hackathon - part of the Met Office Climate Data Challenge Hackathon series during 2021. Led to a collaboration for addressing the effects of climate change on Biological Carbon Pump (paper 17 in <a href="/Publications/">my list of publications</a>).
-- August 2018: Swiss Oeschger Centre for Climate Change Research (OCCR) Summer School. Participation in this summer school is highly competitive and is limited to a maximum of 70 young researchers from all fields of climate research.
 
 ---
 
