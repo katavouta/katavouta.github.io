@@ -37,7 +37,8 @@ comments: true
 
 **Numerical modelling: shelf seas, opean ocean and climate**
 - Conceptual and idealised models.
-- Realistic numerical models. 
+- Realistic numerical models.
+- Regional downscaling
 
 ---
 
