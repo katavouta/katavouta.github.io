@@ -14,7 +14,7 @@ I was borned and grew up in Greece. After completing my Bachelor's degree in phy
 
 ---
 
-<p><img align="left" width="60%" src="/assets/figures/Scotian.png" /> As a <b>graduate student</b> I focused on the practical application of numerical models, as well as their use in understanding the dynamics of high-latitude shelf seas. During my <b>MSc</b>, I developed an efficient scheme for the assimilation of sea ice observations into coupled sea ice/ocean models. During my <b>PhD</b>, I developed a high-resolution regional model for the Gulf of Maine and Scotian Shelf (GoMSS), and an ocean downscaling method that draws upon the non-linear coupling between different length scales. Using this model I investigated the interaction between seasonal and tidal variability in the region.</p>
+<p><img align="left" width="70%" src="/assets/figures/Scotian.png" /> As a <b>graduate student</b> I focused on the practical application of numerical models, as well as their use in understanding the dynamics of high-latitude shelf seas. During my <b>MSc</b>, I developed an efficient scheme for the assimilation of sea ice observations into coupled sea ice/ocean models. During my <b>PhD</b>, I developed a high-resolution regional model for the Gulf of Maine and Scotian Shelf (GoMSS), and an ocean downscaling method that draws upon the non-linear coupling between different length scales. Using this model I investigated the interaction between seasonal and tidal variability in the region.</p>
 
 ---
 
