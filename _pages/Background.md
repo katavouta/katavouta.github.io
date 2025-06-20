@@ -14,11 +14,8 @@ I was borned and grew up in Greece. After completing my Bachelor's degree in phy
 
 ---
 
-As a **graduate student** I focused on the practical application of numerical models, as well as their use in understanding the dynamics of high-latitude shelf seas. During my **MSc**, I developed an efficient scheme for the assimilation of sea ice observations into coupled sea ice/ocean models. During my **PhD**, I developed a high-resolution regional model for the Gulf of Maine and Scotian Shelf (GoMSS), and an ocean downscaling method that draws upon the non-linear coupling between different length scales. Using this model I investigated the interaction between seasonal and tidal variability in the region.
-<figure class="wide">
-    <a href="/assets/figures/Scotian.png"><img src="/assets/figures/Scotian.png" style="width:100%"></a>
-</figure>
+<p><img align="left" width="60%" src="/assets/figures/Scotian.png" /> As a <b>graduate student</b> I focused on the practical application of numerical models, as well as their use in understanding the dynamics of high-latitude shelf seas. During my <b>MSc</b>, I developed an efficient scheme for the assimilation of sea ice observations into coupled sea ice/ocean models. During my <b>PhD</b>, I developed a high-resolution regional model for the Gulf of Maine and Scotian Shelf (GoMSS), and an ocean downscaling method that draws upon the non-linear coupling between different length scales. Using this model I investigated the interaction between seasonal and tidal variability in the region.</p>
 
 ---
 
-<img align="right" width="30%" src="/assets/figures/Ventilation.png" /> My **postdoctoral position** at the University of Liverpool marked a transition from physical oceanography to climate science. During this post, I reconciled theory and combined it with conceptual and realistic Earth system models to investigate the effect of ocean circulation and carbonate chemistry on the climate response to carbon emissions.
+<p><img align="right" width="20%" src="/assets/figures/Ventilation.png" /> My <b>postdoctoral position</b> at the University of Liverpool marked a transition from physical oceanography to climate science. During this post, I reconciled theory and combined it with conceptual and realistic Earth system models to investigate the effect of ocean circulation and carbonate chemistry on the climate response to carbon emissions.</p>
