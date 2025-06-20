@@ -10,7 +10,7 @@ comments: true
 I was borned and grew up in Greece. After completing my Bachelor's degree in physics in Greece, I moved to Canada for my grad studies (MSc and PhD) where I lived for almost 8 years. Since 2016 I have lived and worked in the UK.
 
 ---
-<p><a href="/assets/figures/CUR_SEAsia_large.png"><img src="/assets/figures/CUR_SEAsia_large.png" style="float:right;width:50%"></a>Since 2019, I work as a <b>scientist at the National Oceanography Centre</b> focusing on the response of shelf seas to climate change, in terms of emerging climate-induced heat, carbon, oxygen and nutrients signals, and the dynamic drivers of regional variability in this response. I am particularly interested in the effect of shelf processes on the dynamics of the Indonesian Seas and the Indonesian throughflow. I am also currently conducing a part-time <b>secondment at the University of Liverpool</b>, where I investigate the carbon and air-sea/cloud feedbacks operating in the climate system.</p>
+<p><img align="left" width="40%" src="/assets/figures/CUR_SEAsia_large.png" />Since 2019, I work as a <b> research scientist at the National Oceanography Centre</b> focusing on the response of shelf seas to climate change and the dynamic drivers of regional variability in this response. I also investigate the role of the global-scale ocean on the Earth's system reposnse to climate change, with particular interest in ocean heat and carbon uptake and its redistribution by the changing circulation, and carbon-cycle and climate feedbacks </p>
 
 ---
 
@@ -20,6 +20,5 @@ As a **graduate student** I focused on the practical application of numerical mo
 </figure>
 
 ---
-<a href="/assets/figures/Ventilation.png">
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/figures/Ventilation.png){: .align-right}</a>
-My **postdoctoral position** at the University of Liverpool marked a transition from physical oceanography to climate science. During this post, I reconciled theory and combined it with conceptual and realistic Earth system models to investigate the effect of ocean circulation and carbonate chemistry on the climate response to carbon emissions.
+
+<img align="right" width="30%" src="/assets/figures/Ventilation.png" /> My **postdoctoral position** at the University of Liverpool marked a transition from physical oceanography to climate science. During this post, I reconciled theory and combined it with conceptual and realistic Earth system models to investigate the effect of ocean circulation and carbonate chemistry on the climate response to carbon emissions.
