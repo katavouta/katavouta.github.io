@@ -23,8 +23,7 @@ Global Coastal Ocean Model Intercomparison Project.</li>
     <li value="23">Jardine, J.E., J. Holt, S.L. Wakelin, <b>A. Katavouta</b>, & D.
 Partridge (2025). An asymmetric change in circulation and nitrate
 transports in the Bay of Bengal, <em>Journal of Geophysical Research:
-Oceans</em>, 130, e2024JC021670. <a href="https://doi.org/10.1016/j.pocean.2025.103497"> https://doi.org/10.1029/2024JC021670</a>  <https://doi.org/10.1029/2024JC021670>.
-<b><ins>Message</ins>:</b>   Future changes in coastal nitrate pathways around
+Oceans</em>, 130, e2024JC021670. <a href="https://doi.org/10.1029/2024JC021670"> https://doi.org/10.1029/2024JC021670</a>. <b><ins>Message</ins>:</b>   Future changes in coastal nitrate pathways around
 the coast of the Bay of Bengal are controlled by climate-induced changes
 in surface circulation. <b><ins>Contribution</ins>:</b> I contributed to the
 development and running of the numerical model and writing of the
