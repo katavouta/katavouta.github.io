@@ -115,38 +115,7 @@ conceived and wrote the study, and conducted the experiments, analysis
 and interpretation. <b><ins>Highlights</ins></b>: Release of the SEAsia model,
 which still supports the NOC capability for projections in the region
 and my collaboration with University of Malaysia at Terengganu.</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-    <li value="22">one</li>
-</ol>
-   
-
-15\. <b>Katavouta A</b>., J. Polton, J. Harle & J. Holt (2022). Effect of
-tides on the Indonesian Seas circulation and their role on the volume,
-heat and salt transports of the Indonesian Throughflow, <em>JGR-Oceans</em>,
-127, [10.1029/2022JC018524](https://doi.org/10.1029/2022JC018524).
-<b><ins>Message</ins>:</b> Demonstrated, for the first time, the role of tidal
-residual currents on regulating the pathway of water from the Pacific to
-the Indian Ocean through the Indonesian Seas. <b><ins>Contribution</ins>:</b> I
-conceived and wrote the study, and conducted the experiments, analysis
-and interpretation. <b><ins>Highlights</ins></b>: Release of the SEAsia model,
-which still supports the NOC capability for projections in the region
-and my collaboration with University of Malaysia at Terengganu.
-
-14\. <b>Katavouta A.</b> & R.G. Williams (2021). Ocean carbon cycle
+    <li value="14"><b>Katavouta A.</b> & R.G. Williams (2021). Ocean carbon cycle
 feedbacks in CMIP6 models: contributions from different basins,
 <em>Biogeosciences</em>, 18,
 [10.5194/bg-18-3189-2021](https://doi.org/10.5194/bg-18-3189-2021).
@@ -159,9 +128,8 @@ a weakening of the meridional overturning. <b><ins>Contribution</ins>:</b> I
 conceived and wrote the study, and conducted the analysis &
 interpretation. <b><ins>Highlights</ins></b>: Extension of my internatio-nally
 recognised work on carbon feedbacks; led to my invited seminar at
-Princeton University.
-
-13\. Williams R.G., <b>A. Katavouta</b> & V. Roussenov (2021). Regional
+Princeton University.</li>
+    <li value="13">Williams R.G., <b>A. Katavouta</b> & V. Roussenov (2021). Regional
 Asymmetries in Ocean Heat and Carbon Storage due to Dynamic
 Redistribution in Climate Model Projections, <em>Journal of Climate</em>,
 34(10), 3907-3925, <https://doi.org/10.1175/JCLI-D-20-0519.1>.
@@ -171,9 +139,8 @@ leads to regional asymmetries between climate-change induced heat and
 carbon anomalies in the ocean. <b><ins>Contribution</ins>:</b> I led the
 climate model analysis and the experiments with the idealised model, and
 contributed to conceiving the concept, interpretation of results and
-writing of the manuscript.
-
-12\. Williams R.G., P. Ceppi & <b>A. Katavouta</b> (2020). Controls of the
+writing of the manuscript.</li>
+    <li value="12">Williams R.G., P. Ceppi & <b>A. Katavouta</b> (2020). Controls of the
 Transient Climate Response to Emissions by physical feedbacks, heat
 uptake and carbon cycling, <em>Environmental Research Letters</em>, 15,
 [10.1088/1748-9326/ab97c9](https://doi.org/10.1088/1748-9326/ab97c9).
@@ -184,9 +151,8 @@ particularly from the effect of clouds. <b><ins>Contribution</ins>:</b> I
 conducted the analysis and interpretation for the ocean heat uptake and
 carbon cycling, and contributed to the writing of the manuscript.
 <b><ins>Highlights</ins></b>: Used and cited in <b>Chapters 4 & 5 of the IPCC</b>
-AR6 (WP1).
-
-11\. Arora V.K., <b>A. Katavouta</b> R.G. Williams, C.D. Jones, V. Brovkin,
+AR6 (WP1).</li>
+    <li value="11">Arora V.K., <b>A. Katavouta</b> R.G. Williams, C.D. Jones, V. Brovkin,
 P. Friedlingstein, J. Schwinger, L. Bopp, et al., (2020).
 Carbon-concentration and carbon-climate feedbacks in CMIP6 models, and
 their comparison to CMIP5 models, <em>Biogeosciences</em>, 17,
@@ -199,9 +165,8 @@ physical ventilation, which is more consistently represented in models.
 <b><ins>Contribution</ins>:</b> I led the study’s ocean component (methods,
 analysis, interpretation, writing). <b><ins>Highlights</ins></b>: Activity
 related to the <em>WCRP Grand Challenge on Carbon Feedbacks</em>; used and
-cited in <b>Chapters 5 & 7 of the IPCC</b> AR6 (WP1).
-
-10 Williams R.G., <b>A. Katavouta</b> & P. Goodwin (2019). Carbon-Cycle
+cited in <b>Chapters 5 & 7 of the IPCC</b> AR6 (WP1).</li>
+    <li value="10">Williams R.G., <b>A. Katavouta</b> & P. Goodwin (2019). Carbon-Cycle
 Feedbacks Operating in the Climate System, <em>Current Climate Change
 Reports</em>, 5.
 [10.1007/s40641-019-00144-9](https://doi.org/10.1007/s40641-019-00144-9)
@@ -211,9 +176,8 @@ physical climate feedbacks in CMIP5 Earth System Models.
 <b><ins>Contribution</ins>:</b> The 3 authors jointly conceive and wrote the
 study and I conducted the analysis for the carbon feedbacks.
 <b><ins>Highlights</ins></b>: Invited submission; used and cited in <b>Chapter 5
-of the IPCC</b> AR6 (WP1).
-
-9\. <b>Katavouta A.,</b> R.G. Williams & P. Goodwin (2019). The effect of
+of the IPCC</b> AR6 (WP1).</li>
+    <li value="9"><b>Katavouta A.,</b> R.G. Williams & P. Goodwin (2019). The effect of
 ocean ventilation on the Transient Climate Response to Emissions,
 <em>Journal of Climate</em>, 32.
 [10.1175/JCLI-D-18-0829.1](https://doi.org/10.1175/JCLI-D-18-0829.1).
@@ -224,17 +188,16 @@ centuries, but by carbon processes on longer timescales.
 idealised models and conducted the analysis and interpretation.
 <b><ins>Highlights</ins></b>: Used and cited in <b>Chapter 5 of the IPCC</b> AR6
 (WP1).
-
-8\. Goodwin P., R. G. Williams, V. M. Roussenov, & <b>A. Katavouta</b>
+</li>
+    <li value="8">Goodwin P., R. G. Williams, V. M. Roussenov, & <b>A. Katavouta</b>
 (2019). Climate sensitivity from both physical and carbon cycle
 feedbacks, <em>Geophysical Research Letters</em>, 46, 7554–7564.
 <https://doi.org/10.1029/2019GL082887>. <b><ins>Message</ins>:</b> A new
 framework for including the effects of carbon feedbacks into the
 definition of the Equilibrium Climate Response to Emissions.
 <b><ins>Contribution</ins>:</b> I contributed to the analysis, interpretation
-of results and writing of the manuscript.
-
-7\. <b>Katavouta A.</b>, R.G. Williams, P. Goodwin & V.M. Roussenov (2018).
+of results and writing of the manuscript.</li>
+    <li value="7"><b>Katavouta A.</b>, R.G. Williams, P. Goodwin & V.M. Roussenov (2018).
 Reconciling Atmospheric and Oceanic Views of the Transient Climate
 Response to Emissions, <em>Geophysical Research Letters</em>, 45,
 [10.1029/2018GL077849](https://doi.org/10.1029/2018GL077849).
@@ -243,9 +206,8 @@ emissions that reveals the control of the ocean carbonate chemistry on
 the proportionality of surface warming to carbon emissions.
 <b><ins>Contribution</ins>:</b> I conceived and wrote the study, and conducted
 the analysis and interpretation. <b><ins>Highlights</ins></b>: Used and cited
-in <b>Chapter 5 of the IPCC</b> AR6 (WP1).
-
-6\. Goodwin P., <b>A. Katavouta</b>, V.M. Roussenov, G.L. Foster, E.J.
+in <b>Chapter 5 of the IPCC</b> AR6 (WP1).</li>
+    <li value="6">Goodwin P., <b>A. Katavouta</b>, V.M. Roussenov, G.L. Foster, E.J.
 Rohling & R.G. Williams (2018). Pathways to 1.5<sup>o</sup>C and
 2<sup>o</sup>C warming based on observational and geological
 constraints, <em>Nature Geoscience</em>, 11.
@@ -255,18 +217,16 @@ emission rate warming targets of 1.5<sup>o</sup>C and 2<sup>o</sup>C
 will be reached in 17-18 and 35-41 years, respectively.
 <b><ins>Contribution</ins>:</b> I led the ocean heat uptake and storage
 analysis and writing. <b><ins>Highlights</ins></b>: Used and cited in <b>Chapter
-5 of the IPCC</b> AR6 (WP1).
-
-5\. Chegini F., Y. Lu, <b>A. Katavouta</b> & H. Ritchie (2018). Coastal
+5 of the IPCC</b> AR6 (WP1).</li>
+    <li value="5">Chegini F., Y. Lu, <b>A. Katavouta</b> & H. Ritchie (2018). Coastal
 upwelling off Southwest Nova Scotia simulated with a high-resolution
 baroclinic ocean model, <em>Journal of Geophysical Research</em>, 123,
 2318-2331. <https://doi.org/10.1002/2017JC013431>. <b><ins>Message</ins></b>:
 The Scotian Current variability is identified as the main driver of the
 seasonal modulations of the tidally induced upwelling in the region.
 <b><ins>Contribution</ins>:</b> I contributed to the design of the analysis and
-interpretation of results.
-
-4\. <b>Katavouta A.</b> & K.R. Thompson (2016). Downscaling ocean
+interpretation of results.</li>
+    <li value="4"><b>Katavouta A.</b> & K.R. Thompson (2016). Downscaling ocean
 conditions with application to the Gulf of Maine, Scotian Shelf &
 adjacent deep ocean, <em>Ocean Modelling</em>, 104.
 [10.1016/j.ocemod.2016.05.007](https://doi.org/10.1016/j.ocemod.2016.05.007).
@@ -277,9 +237,8 @@ models. <b><ins>Contribution</ins></b>: I conceived and wrote the study,
 developed the methodologies and conducted the analysis and
 interpretation. <b><ins>Highlights</ins></b>: Led to my <b>collaboration with
 CMCC</b> (started on 2023) and the adoption of the method for the Adriatic
-Sea model by my visiting PhD student.
-
-3\. <b>Katavouta A.</b>, K.R. Thompson, Y. Lu & J.W. Loder (2016).
+Sea model by my visiting PhD student.</li>
+    <li value="3"><b>Katavouta A.</b>, K.R. Thompson, Y. Lu & J.W. Loder (2016).
 Interaction Between the Tidal and Seasonal Variability of the Gulf of
 Maine and Scotian Shelf Region, <em>Journal of Physical Oceanography</em>, 46,
 [10.1175/JPO-D-15-0091.1](https://doi.org/10.1175/JPO-D-15-0091.1).
@@ -290,9 +249,8 @@ variability in stratification. <b><ins>Contribution</ins></b>: I conceived and
 wrote the study, developed the methodologies and conducted the analysis
 and interpretation. <b><ins>Highlights</ins></b>: Release of my GoMSS model
 that contributed to the operational system used by Fisheries & Oceans
-Canada.
-
-2\. <b>Katavouta A.</b> & P.G. Myers (2014). Sea-ice concentration
+Canada.</li>
+    <li value="2"><b>Katavouta A.</b> & P.G. Myers (2014). Sea-ice concentration
 multivariate assimilation for the Canadian East coast in a coupled sea
 ice-ocean model, <em>Atmosphere-Ocean</em>, 52, 418-433.
 <https://doi.org/10.1080/07055900.2014.954096>. <b><ins>Message</ins></b>: A
@@ -300,9 +258,8 @@ new scheme that enables sea ice/ocean coupled models to better
 accommodate the assimilation of sea ice observations by updating the
 upper ocean state. <b><ins>Contribution</ins></b>: I conceived and wrote the
 study, developed the methodologies and conducted the analysis and
-interpretation.
-
-1\. <b>Katavouta A.</b> & K.R. Thompson (2013). Downscaling Ocean
+interpretation.</li>
+    <li value="1"><b>Katavouta A.</b> & K.R. Thompson (2013). Downscaling Ocean
 Conditions: Experiments with a quasi-geostrophic model, <em>Ocean
 Modelling</em>, 72. <https://doi.org/10.1016/j.ocemod.2013.10.001>.
 <b><ins>Message</ins></b>: A novel method for downscaling ocean conditions by
@@ -312,5 +269,6 @@ the time history of the associated large-scale ocean circulation.
 methodologies and conducted the analysis and interpretation.
 <b><ins>Highlights</ins></b>: Introducing a modified atmospheric spectral
 nudging scheme for ocean applications.
-
+</li>
+</ol>
 
