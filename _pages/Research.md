@@ -11,7 +11,6 @@ comments: true
 
 **Shelf seas dynamics**
 - Effect of regional proccesses (air-sea fluxes, tides, river outflow) on water mass transformation and flow patterns. 
-- Interaction between seasonal and tidal variability.
 - Imprint of large scale ocean and climate patterns on shelf seas.
 
 ---
@@ -30,7 +29,6 @@ comments: true
 
 **Climate change impact in shelf seas**
 - Effect of fine-scale shelf processes vs large-scale open ocean patterns in different shelf seas.  
-- Climate-change induced variability  outside the natural range and occurence of extreme events.
 - Emergence of environmental stressors for marine ecosystems: warming, acidification, hypoxia, nutrients availability. 
 
 ---
@@ -41,13 +39,6 @@ comments: true
 - Regional downscaling
 
 ---
-
-**Statistical methods for analysis and reconstruction of observations, and data assimilation**
-
-- Spectal analysis of modes of variability.
-- Empirical Orthogonal Function analysis.
-- State-space models.
-- Ensemble Kalman filter and Ensemble Optimal Interpolation. 
 
 <!--
 e.g., ocean acidification due to ocean uptake of anthropogenic carbon further amplifying warming through a reduction in the the ocean ability to absorb carbon from the atmosphere.
