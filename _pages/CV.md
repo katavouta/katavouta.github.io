@@ -7,7 +7,7 @@ author_profile: true
 comments: true
 
 ---
-For a full CV: <a href="/assets/CV_Katavouta.pdf"> CV in PDF</a>
+For a full CV: <a href="/assets/Katavouta_CV_June2025.pdf"> CV in PDF</a>
 ---
 
 **Senior Scientist**, National Oceanography Centre, Liverpool, UK (August 2019 - present).
